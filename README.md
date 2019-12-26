@@ -1,4 +1,4 @@
-# Sample generated videos of the Wi2Vi model (:heavy_exclamation_mark: Reading the Notice below is highly recommended)
+# Sample generated videos of the Wi2Vi model - :heavy_exclamation_mark: : Reading the _Notice_ below is highly recommended
 
 ## :heavy_exclamation_mark: Notice: Since playback speed of ".gif" files is limited on git, for proper visualization of the results, we recommend downloading the files and playing them on your local machine.
 
