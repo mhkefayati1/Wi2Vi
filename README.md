@@ -1,9 +1,7 @@
-# Sample generated videos of the Wi2Vi model [#1589F0]((:heavy_exclamation_mark: Reading the Notice below is highly recommended))
+# Sample generated videos of the Wi2Vi model (:heavy_exclamation_mark: Reading the Notice below is highly recommended)
 
-```diff
-- Notice: Since playback speed of ".gif" files is limited on git, 
-for proper visualization of the results, we recommend downloading the files and playing them on your local machine.
-```
+## :heavy_exclamation_mark: Notice: Since playback speed of ".gif" files is limited on git, for proper visualization of the results, we recommend downloading the files and playing them on your local machine.
+
 
 Files are:
 -  1_Input_CSI_sequence.gif : GIF file containing the CSI samples (Wi2Vi inputs). This is the same for both use cases presented in our paper.
